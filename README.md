@@ -16,5 +16,7 @@ The goal was to visualize key HR metrics to help decision-makers understand work
 - CSV/Excel Dataset  
 
 ## 📸 Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
 
 
